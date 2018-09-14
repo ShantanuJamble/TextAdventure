@@ -1,0 +1,7 @@
+D:\RIT\C#\TextAdventure\TextAdventure\bin\Debug\TextAdventure.exe.config
+D:\RIT\C#\TextAdventure\TextAdventure\bin\Debug\TextAdventure.exe
+D:\RIT\C#\TextAdventure\TextAdventure\bin\Debug\TextAdventure.pdb
+D:\RIT\C#\TextAdventure\TextAdventure\obj\Debug\TextAdventure.csprojAssemblyReference.cache
+D:\RIT\C#\TextAdventure\TextAdventure\obj\Debug\TextAdventure.csproj.CoreCompileInputs.cache
+D:\RIT\C#\TextAdventure\TextAdventure\obj\Debug\TextAdventure.exe
+D:\RIT\C#\TextAdventure\TextAdventure\obj\Debug\TextAdventure.pdb
