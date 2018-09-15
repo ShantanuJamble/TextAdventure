@@ -29,6 +29,7 @@ namespace TextAdventure
         public string ReadUserInput()
         {
             input = Console.ReadLine();
+            input = input.Replace(" ", "");
             if (ValidateInput() == false)
             {
                 input = "Invalid";
